@@ -14,4 +14,4 @@ DIRECTORIES | DESCRIPTION
 [0x03-shell_variables_expansions](https://github.com/Lordwill1/alx-system_engineering-devops/tree/master/0x03-shell_variables_expansions) | Introduction to Shell variable expansions
 
 
-        ** Solomon Belay **
+- ** Solomon Belay **
