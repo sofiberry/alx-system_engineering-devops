@@ -1,7 +1,7 @@
 Postmortem: Web Stack Outage Incident
 
 Issue Summary:
-Duration: August 10, 2023, 10:00 AM - August 10, 2023, 2:00 PM (UTC)
+Duration: Jan 21, 2024, 10:00 AM - Jan 21, 2024, 2:00 PM (UTC)
 Impact: The user authentication service experienced complete downtime during the outage. Users were unable to log in or access any authenticated features. Approximately 25% of our user base was affected, resulting in a significant disruption to their experience.
 
 Timeline:
